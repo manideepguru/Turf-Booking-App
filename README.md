@@ -21,7 +21,7 @@ Turf Finder is a complete, full-stack MERN application that allows users to disc
 
 | Homepage with Filters | Turf Details & Calendar |
 | :------------------: | :-------------------: |
-| ![Homepage]([https://placehold.co/600x400/png?text=Homepage%20Screenshot](https://github.com/manideepguru/Turf-Booking-App/blob/main/screenshots/Homepage.png)) | ![Details Page](https://placehold.co/600x400/png?text=Details%20Page%20Screenshot) |
+| ![Homepage]((https://github.com/manideepguru/Turf-Booking-App/blob/main/screenshots/Homepage.png)) | ![Details Page](https://placehold.co/600x400/png?text=Details%20Page%20Screenshot) |
 
 
 
