@@ -18,9 +18,9 @@ Turf Finder is a complete, full-stack MERN application that allows users to disc
 ---
 ## 📸 Screenshots
 
-| Homepage with Filters | Turf Details & Calendar |
-| :------------------: | :-------------------: |
-| ![Homepage](https://github.com/manideepguru/Turf-Booking-App/blob/main/screenshots/Homepage.png?raw=true) | ![Details Page](https://github.com/manideepguru/Turf-Booking-App/blob/main/screenshots/Turf_details.png?raw=true) |
+| Homepage with Filters | Turf Details & Calendar | Payment Gateway |
+| :------------------: | :-------------------: |:---------------:|
+| ![Homepage](https://github.com/manideepguru/Turf-Booking-App/blob/main/screenshots/Homepage.png?raw=true) | ![Details Page](https://github.com/manideepguru/Turf-Booking-App/blob/main/screenshots/Turf_details.png?raw=true) | ![Payment Modal](https://github.com/manideepguru/Turf-Booking-App/blob/main/screenshots/payment-modal.png?raw=true) |
 ## 🛠️ Tech Stack
 
 This project is a monorepo containing both the frontend and backend.
@@ -108,6 +108,6 @@ To get a local copy up and running, follow these simple steps.
 
 ## 👤 Contact
 
-Manideep Guru - [Your LinkedIn URL] - [your.email@example.com]
+Manideep Guru - (https://www.linkedin.com/in/manideep-guru-411a01255/)
 
 Project Link: [https://github.com/your-username/turf-booking-app](https://github.com/your-username/turf-booking-app)
