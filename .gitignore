@@ -1,0 +1,19 @@
+# Backend dependencies
+backend/node_modules
+
+# Frontend dependencies
+frontend/node_modules
+
+# Environment variables (NEVER commit these)
+backend/.env
+
+# Frontend build output (for later)
+frontend/dist
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor-specific files
+.vscode/
